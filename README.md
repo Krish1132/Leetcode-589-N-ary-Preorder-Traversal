@@ -60,6 +60,6 @@ public List<Integer> preorder(Node root) {
 
 ---
 
-<h3>Time complexity</h3>Each node is visited exactly once, hence, time complexity is <strong>O(N)</strong>, where N is the number of nodes, that is, the size of tree.
+<h3>Time complexity - </h3>Each node is visited exactly once, hence, time complexity is <strong>O(N)</strong>, where N is the number of nodes, that is, the size of tree.
 </br>
-<h3>Space complexity</h3>The entire tree is stored in the list, therefore, <strong>O(N)</strong>.
+<h3>Space complexity - </h3>The entire tree is stored in the list, therefore, <strong>O(N)</strong>.
